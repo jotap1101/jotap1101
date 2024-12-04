@@ -24,14 +24,14 @@
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-    <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" height="50" alt="Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
     <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
     <img src="https://skillicons.dev/icons?i=django" alt="Django" />
     <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-    <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" height="50" alt="PHP" />
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
