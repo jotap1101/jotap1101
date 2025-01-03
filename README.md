@@ -10,13 +10,10 @@
 - 📂 Experiência com projetos pessoais, como gerenciadores de currículos, filmes e tarefas, utilizando Django, React, integração de APIs, etc.
 - 🎯 Objetivo de carreira: Trabalhar como Desenvolvedor de Software, criando soluções web e mobile para problemas reais.
 - ⚽ Apaixonado por futebol e futsal.
-- 🌱 Atualmente aprendendo React Native + Expo e Django Rest Framework.
-- 🌟 Meu maior orgulho é transformar ideias em sistemas funcionais que impactam a vida das pessoas de forma positiva.
+- 🌱 Atualmente aprendendo NextJS.
 - 🗣️ Idiomas: Português (nativo) e Inglês (intermediário).
 
 ---
-
-
 
 ### 💻 Tecnologias
 
@@ -95,4 +92,4 @@
 
 ### 🚀 Agradecimentos
 
-Obrigado por visitar meu perfil! Se gostou, considere deixar uma ⭐ no repositório e me seguir para mais conteúdos como este!
+Obrigado por visitar meu perfil!
