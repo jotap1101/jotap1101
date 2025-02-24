@@ -24,6 +24,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
     <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
+    <img src="https://skillicons.dev/icons?i=next" alt="Next" />
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
     <img src="https://skillicons.dev/icons?i=django" alt="Django" />
     <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
