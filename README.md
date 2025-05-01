@@ -6,8 +6,8 @@
 
 - 🎓 Graduando em Ciência da Computação no IFSULDEMINAS - Campus Muzambinho (5/8).
 - 🖥️ Formado em Técnico em Informática integrado ao ensino médio no IFSULDEMINAS - Campus Muzambinho (2020-2023).
-- 💻 Desenvolvedor web no programa Campus Inteligente (Iniciação Científica, Ago/2023 - Ago/2024), onde desenvolvi um sistema de gerenciamento pecuário.
-- 📂 Experiência com projetos pessoais, como gerenciadores de currículos, filmes e tarefas, utilizando Django, React, integração de APIs, etc.
+- 💻 Desenvolvedor web no programa Campus Inteligente (Iniciação Científica, Ago/2023 - Ago/2024).
+- 📂 Experiência com projetos pessoais (gerenciador de currículos, filmes e tarefas) e acadêmicos utilizando Django, React, REST APIs, etc.
 - 🎯 Objetivo de carreira: Trabalhar como Desenvolvedor de Software, criando soluções web e mobile para problemas reais.
 - ⚽ Apaixonado por futebol e futsal.
 - 🌱 Atualmente aprendendo NextJS.
