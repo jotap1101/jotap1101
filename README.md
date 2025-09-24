@@ -6,9 +6,7 @@
 
 - 🎓 Graduando em Ciência da Computação no IFSULDEMINAS - Campus Muzambinho (6/8).
 - 🖥️ Formado em Técnico em Informática integrado ao ensino médio no IFSULDEMINAS - Campus Muzambinho (2020-2023).
-- 💻 Desenvolvedor web no programa Campus Inteligente (Iniciação Científica, Ago/2023 - Ago/2024).
-- 📂 Experiência com projetos pessoais e acadêmicos utilizando Django, Django Rest Framework e React.
-- 🎯 Meu objetivo é trabalhar como Desenvolvedor de Software, criando soluções web e mobile para problemas reais.
+- 💻 Desenvolvedor de software no programa Campus Inteligente (Iniciação Científica, Ago/2023 - Ago/2024).
 - ⚽ Apaixonado por futebol e futsal.
 - 🌱 Atualmente aprendendo NextJS.
 
@@ -37,26 +35,17 @@
 
 ---
 
-### 📈 Estatísticas
-
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=jotap1101&show_icons=true&theme=dark)
 
 ---
-
-### 🛠️ Linguagens mais usadas
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jotap1101&layout=compact&theme=dark)
 
 ---
 
-### 📊 Contribuições
-
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=jotap1101&theme=dark)
 
 ---
-
-### 🌍 Mapa de Commits
-
 
 ![Mapa de Commits](https://ghchart.rshah.org/jotap1101)
 
