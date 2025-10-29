@@ -1,4 +1,4 @@
-# 👨‍💻 João Pedro Alves
+# 👨‍💻 João Pedro Alve
 
 ---
 
