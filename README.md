@@ -2,7 +2,7 @@
 
 ---
 
-### 📝 Sobre Mim
+### 📝 Sobre Mimm
 
 - 🎓 Graduando em Ciência da Computação no IFSULDEMINAS - Campus Muzambinho (6/8).
 - 🖥️ Formado em Técnico em Informática integrado ao ensino médio no IFSULDEMINAS - Campus Muzambinho (2020-2023).
