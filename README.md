@@ -4,7 +4,7 @@
 
 ### 📝 Sobre Mim
 
-- 🎓 Graduando em Ciência da Computação no IFSULDEMINAS - Campus Muzambinho (6/8).
+- 🎓 Graduando em Ciência da Computação no IFSULDEMINAS - Campus Muzambinho (7/8).
 - 🖥️ Formado em Técnico em Informática integrado ao ensino médio no IFSULDEMINAS - Campus Muzambinho (2020-2023).
 - 💻 Desenvolvedor de software no programa Campus Inteligente (Iniciação Científica, Ago/2023 - Ago/2024).
 - ⚽ Apaixonado por futebol e futsal.
