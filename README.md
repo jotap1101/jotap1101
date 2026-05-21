@@ -1,37 +1,47 @@
-# Olá, eu sou o João Pedro Alves 👋
+# Opa, eu sou o João Pedro Alves 👋
 
-Desenvolvedor Full-Stack e estudante do 7º período de Ciência da Computação no IFSULDEMINAS - Campus Muzambinho. Tenho forte atuação no desenvolvimento web e pesquiso aplicações práticas de Inteligência Artificial e agentes autônomos.
+Desenvolvedor Full-Stack e atualmente estudante do 7º período de Bacharelado em Ciência da Computação no IFSULDEMINAS - Campus Muzambinho, instituição onde também me formei em Técnico em Informática (2020-2023).
 
-Atualmente, estou focado no desenvolvimento do meu TCC, onde realizo uma análise comparativa e comportamental entre modelos de visão computacional (CNN e ViT) para a identificação de lavouras de café no Sul de Minas. Em paralelo, atuo como bolsista no desenvolvimento do novo portal institucional do IFSULDEMINAS utilizando o CMS Wagtail. 
+Atualmente, estou focado no desenvolvimento do meu TCC, onde realizo uma análise comparativa e comportamental entre modelos de visão computacional (CNN e ViT) para a identificação de lavouras de café no Sul de Minas. Em paralelo, atuo como bolsista no desenvolvimento do novo portal institucional do IFSULDEMINAS. 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-**Back-end:**
+**Back-end:** 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Front-end:**
+**Front-end:** 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Ecossistema & IA:**
-![Wagtail](https://img.shields.io/badge/Wagtail-43b1b0?style=for-the-badge&logo=Wagtail&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+**Ferramentas e Outras Tecnologias:** 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jotap1101&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jotap1101&theme=dracula"/>
+  <img height="165" src="https://github-readme-stats-jotap1101.vercel.app/api?username=jotap1101" alt="Estatísticas Gerais do GitHub" />
+  <img height="165" src="https://github-readme-stats-jotap1101.vercel.app/api/top-langs/?username=jotap1101&layout=compact" alt="Linguagens Mais Utilizadas" />
 </div>
 
-### 📈 Gráfico de Contribuições
+### 🔥 Sequência de Commits
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jotap1101&theme=dracula-blue&show_icons=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotap1101" alt="Estatísticas de Sequência do GitHub" />
+</div>
+
+### 📈 Matriz de Contribuições
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/jotap1101" alt="Gráfico de Commits 2D" />
 </div>
 
 ## 💼 Experiência
