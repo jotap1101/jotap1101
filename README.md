@@ -25,7 +25,7 @@ Atualmente, estou focado no desenvolvimento do meu TCC, onde realizo uma anális
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-jotap1101.vercel.app/api?username=jotap1101&theme=dark" alt="Estatísticas Gerais do GitHub" />
