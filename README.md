@@ -35,7 +35,7 @@ Atualmente, estou focado no desenvolvimento do meu TCC, onde realizo uma anális
 ### 🔥 Sequência de Commits
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotap1101&theme=dark" alt="Estatísticas de Sequência do GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=jotap1101&theme=dark" alt="Estatísticas de Sequência do GitHub" />
 </div>
 
 ### 📈 Matriz de Contribuições
