@@ -1,84 +1,46 @@
-# 👨‍💻 João Pedro Alves
+# Olá, eu sou o João Pedro Alves 👋
 
----
+Desenvolvedor Full-Stack e estudante do 7º período de Ciência da Computação no IFSULDEMINAS - Campus Muzambinho. Tenho forte atuação no desenvolvimento web e pesquiso aplicações práticas de Inteligência Artificial e agentes autônomos.
 
-### 📝 Sobre Mim
+Atualmente, estou focado no desenvolvimento do meu TCC, onde realizo uma análise comparativa e comportamental entre modelos de visão computacional (CNN e ViT) para a identificação de lavouras de café no Sul de Minas. Em paralelo, atuo como bolsista no desenvolvimento do novo portal institucional do IFSULDEMINAS utilizando o CMS Wagtail. 
 
-- 🎓 Graduando em Ciência da Computação no IFSULDEMINAS - Campus Muzambinho (7/8).
-- 🖥️ Formado em Técnico em Informática integrado ao ensino médio no IFSULDEMINAS - Campus Muzambinho (2020-2023).
-- 💻 Desenvolvedor de software no programa Campus Inteligente (Iniciação Científica, Ago/2023 - Ago/2024).
-- ⚽ Apaixonado por futebol e futsal.
-- 🌱 Atualmente aprendendo NextJS.
+## 🛠️ Tecnologias e Ferramentas
 
----
+**Back-end:**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
 
-### 💻 Tecnologias
+**Front-end:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 30px;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-    <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
-    <img src="https://skillicons.dev/icons?i=react" alt="React" />
-    <img src="https://skillicons.dev/icons?i=next" alt="Next" />
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=django" alt="Django" />
-    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+**Ecossistema & IA:**
+![Wagtail](https://img.shields.io/badge/Wagtail-43b1b0?style=for-the-badge&logo=Wagtail&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jotap1101&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jotap1101&theme=dracula"/>
 </div>
 
----
+### 📈 Gráfico de Contribuições
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=jotap1101&show_icons=true&theme=dark)
-
----
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jotap1101&layout=compact&theme=dark)
-
----
-
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=jotap1101&theme=dark)
-
----
-
-![Mapa de Commits](https://ghchart.rshah.org/jotap1101)
-
----
-
-### ✉️ Contato e Redes
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 30px;">
-    <a href="https://wa.me/5535998724512" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-    </a>
-    <a href="https://www.instagram.com/_jaopedro._/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://x.com/jotap1101" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-    </a>
-    <a href="https://www.linkedin.com/in/jotap1101" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://discord.com/users/1167609321408974860" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-    <a href="https://github.com/jotap1101" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="mailto:jotap1101.notebook@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jotap1101&theme=dracula-blue&show_icons=true"/>
 </div>
 
----
+## 💼 Experiência
 
-### 🚀 Agradecimentos
+* **IFSULDEMINAS (Reitoria):** Bolsista no projeto de desenvolvimento do novo Portal Institucional (Dez/2025 - Presente).
+* **AIDA Business Intelligence:** Ex-Desenvolvedor Full-Stack Júnior (Out/2025 - Mar/2026).
+* **IFSULDEMINAS - Campus Muzambinho:** Desenvolvedor Full-Stack (Bolsista CNPq - Iniciação Científica) do projeto Campus Inteligente (Ago/2023 - Ago/2024).
 
-Obrigado por visitar meu perfil!
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap1101/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jotap1101.joaopedro@gmail.com)
