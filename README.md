@@ -1,4 +1,4 @@
-# Opa, eu sou o João Pedro Alves 👋
+# Opa, meu nome é João Pedro Alves 👋
 
 Desenvolvedor Full-Stack e atualmente estudante do 7º período de Bacharelado em Ciência da Computação no IFSULDEMINAS - Campus Muzambinho, instituição onde também me formei em Técnico em Informática (2020-2023).
 
@@ -28,20 +28,20 @@ Atualmente, estou focado no desenvolvimento do meu TCC, onde realizo uma anális
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-jotap1101.vercel.app/api?username=jotap1101" alt="Estatísticas Gerais do GitHub" />
-  <img height="165" src="https://github-readme-stats-jotap1101.vercel.app/api/top-langs/?username=jotap1101&layout=compact" alt="Linguagens Mais Utilizadas" />
+  <img height="165" src="https://github-readme-stats-jotap1101.vercel.app/api?username=jotap1101&theme=dark" alt="Estatísticas Gerais do GitHub" />
+  <img height="165" src="https://github-readme-stats-jotap1101.vercel.app/api/top-langs/?username=jotap1101&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" />
 </div>
 
 ### 🔥 Sequência de Commits
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotap1101" alt="Estatísticas de Sequência do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotap1101&theme=dark" alt="Estatísticas de Sequência do GitHub" />
 </div>
 
 ### 📈 Matriz de Contribuições
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/jotap1101" alt="Gráfico de Commits 2D" />
+  <img src="https://ghchart.rshah.org/jotap1101?theme=dark" alt="Gráfico de Commits 2D" />
 </div>
 
 ## 💼 Experiência
