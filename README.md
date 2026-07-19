@@ -1,4 +1,4 @@
-# Opa, meu nome é João Pedro Alves 👋 
+# Opa, meu nome é João Pedro Alves 👋
 
 Desenvolvedor Full-Stack e atualmente estudante do 8º e último período de Bacharelado em Ciência da Computação no IFSULDEMINAS - Campus Muzambinho, instituição onde também me formei em Técnico em Informática (2020-2023).
 
