@@ -30,8 +30,8 @@ Atualmente, estou focado no desenvolvimento do meu TCC, onde realizo uma anális
 ### 📈 Estatísticas Gerais e Linguagens Mais Utilizadas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-jotap1101.vercel.app/api?username=jotap1101&theme=dark" alt="Estatísticas Gerais do GitHub" />
-  <img height="165" src="https://github-readme-stats-jotap1101.vercel.app/api/top-langs/?username=jotap1101&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" />
+  <img height="165" src="profile/stats.svg" alt="Estatísticas Gerais do GitHub" />
+  <img height="165" src="profile/top-langs.svg" alt="Linguagens Mais Utilizadas" />
 </div>
 
 ### 🔥 Sequência de Commits
