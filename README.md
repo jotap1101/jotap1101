@@ -25,6 +25,12 @@ Atualmente, estou focado no desenvolvimento do meu TCC, onde realizo uma anális
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
 
+## 💼 Experiência
+
+- **IFSULDEMINAS (Reitoria):** Desenvolvedor Back-end (bolsista) no projeto de desenvolvimento do novo Portal Institucional (Dez/2025 - Presente).
+- **AIDA Business Intelligence:** Ex-Desenvolvedor Full-Stack Júnior (Out/2025 - Mar/2026).
+- **IFSULDEMINAS - Campus Muzambinho:** Desenvolvedor Full-Stack (Bolsista CNPq - Iniciação Científica) do projeto Campus Inteligente (Ago/2023 - Ago/2024).
+
 ## 📊 Estatísticas do GitHub
 
 ### 📈 Estatísticas Gerais e Linguagens Mais Utilizadas
@@ -45,12 +51,6 @@ Atualmente, estou focado no desenvolvimento do meu TCC, onde realizo uma anális
 <div align="center">
   <img src="https://ghchart.rshah.org/jotap1101?theme=dark" alt="Gráfico de Commits 2D" />
 </div>
-
-## 💼 Experiência
-
-- **IFSULDEMINAS (Reitoria):** Desenvolvedor Back-end (bolsista) no projeto de desenvolvimento do novo Portal Institucional (Dez/2025 - Presente).
-- **AIDA Business Intelligence:** Ex-Desenvolvedor Full-Stack Júnior (Out/2025 - Mar/2026).
-- **IFSULDEMINAS - Campus Muzambinho:** Desenvolvedor Full-Stack (Bolsista CNPq - Iniciação Científica) do projeto Campus Inteligente (Ago/2023 - Ago/2024).
 
 ## 📫 Como me encontrar
 
